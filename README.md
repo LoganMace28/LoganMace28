@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoganMace28
 - 👀 I’m interested in software development and cybersecurity
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I have completed a BS in Computer Science
 - 📫 How to reach me: loganmace28@yahoo.com
 
 <!---
